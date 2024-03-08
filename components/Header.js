@@ -12,7 +12,7 @@ export default function Header() {
             <a>About</a>
           </Link>
           <Link href="https://github.com/ChikkyNuggy" rel="me">
-            <a>Github</a>
+            <a>Githu</a>
           </Link>
         </nav>
       </header>
