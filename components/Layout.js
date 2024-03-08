@@ -9,7 +9,7 @@ export default function Layout({ children, pageTitle, description, ...props }) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
         <meta name="Description" content={description}></meta>
-        <link rel="me" href="https://github.com/ChikkyNuggy"></link>
+        <link rel="webmention" href="https://webmention.io/65eb2ba97efb20000895258a--web012.netlify.app/webmention" />
         <title>{pageTitle}</title>
       </Head>
       <style jsx global>{`

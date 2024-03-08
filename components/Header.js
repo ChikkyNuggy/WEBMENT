@@ -14,7 +14,6 @@ export default function Header() {
           <Link href="https://github.com/ChikkyNuggy" rel="me">
             <a>Githu</a>
           </Link>
-          <link rel="webmention" href="https://webmention.io/65eb2ba97efb20000895258a--web012.netlify.app/webmention" />
         </nav>
       </header>
       <style jsx>{`
