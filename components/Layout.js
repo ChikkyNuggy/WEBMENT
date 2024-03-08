@@ -9,7 +9,7 @@ export default function Layout({ children, pageTitle, description, ...props }) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
         <meta name="Description" content={description}></meta>
-        <link rel="me" href="https://www.reddit.com/user/Exciting_Tackle_6049/"></link>
+        <link rel="me" href="https://github.com/ChikkyNuggy"></link>
         <title>{pageTitle}</title>
       </Head>
       <style jsx global>{`

@@ -11,8 +11,8 @@ export default function Header() {
           <Link href="/about">
             <a>About</a>
           </Link>
-          <Link href="https://www.reddit.com/user/Exciting_Tackle_6049/" rel="me">
-            <a>Reddit</a>
+          <Link href="https://github.com/ChikkyNuggy" rel="me">
+            <a>Github</a>
           </Link>
         </nav>
       </header>
